@@ -10,6 +10,9 @@ Crie um programa que escreva **"Olá, Mundo!"** na tela.
 ### 🙋 Exercício 2: Boas-vindas ao Usuário
 Faça um programa que leia o **nome de uma pessoa** e mostre uma **mensagem de boas-vindas** personalizada.
 
+### ➕ Exercício 3: Soma de Dois Números
+Crie um programa que **leia dois números** e **mostre a soma** entre eles.
+
 ---
 
 > 📘 Curso: [Curso em Vídeo - Python](https://www.cursoemvideo.com/)
